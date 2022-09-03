@@ -9,7 +9,7 @@ html,body,main{
 .first{
 	height: 100%;
 	background-color: rgba(75, 38, 38, 0.5);
-	background-image: url(https://avatars.mds.yandex.net/i?id=2c74a653d0503598f9e3ee42f577843c-5452154-images-thumbs&n=13);
+	background-image: url(https://avatars.mds.yandex.net/i?id=42927958c571ec6b1c99a20fff0058b1-5239483-images-thumbs&n=13);
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -110,7 +110,7 @@ img:hover{
 	flex-direction: column;
 	height: 300px;
 	padding: 0 25%;
-	background-image: url(фон.WEBP);
+	background-image: url(https://avatars.mds.yandex.net/i?id=2511fbdd36835693744c1247149ee28a-5419788-images-thumbs&n=13);
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
